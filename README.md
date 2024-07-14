@@ -1,4 +1,4 @@
-﻿# Project #3: Crypto Decryption - Cryptocurrency Dashboard
+﻿# Project: Crypto Decryption - Cryptocurrency Dashboard
 
 <img src="static/images/preview.png" width="600">
 
